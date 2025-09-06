@@ -2,7 +2,7 @@
 
 
 Name:           cava
-Version:        0.10.3
+Version:        0.10.4
 Release:        1
 Summary:        C.A.V.A. is a bar spectrum analyzer for audio using ALSA for input
 Group:          Terminal/Audio
